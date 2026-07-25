@@ -86,11 +86,17 @@ The Entity Relationship Diagram illustrates how the airline's customer, booking,
 
 <h2 align="center">Key Relationship</h2>
 - A passenger can create multiple bookings
+
 - A passenger can hold a membership record
+
 - A booking may be associated with a promotional campaign
+
 - A booking can generate one or more tickets
+
 - A ticket connects a passenger with a specific booking and flight
+
 - A flight can contain multiple bookings and tickets
+  
 - A flight can have an associated operational flight log
 
 ---
